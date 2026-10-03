@@ -1,7 +1,5 @@
 - 👋 Hi, I’m superdangerjam
-- 👀 I’m interested in the making of websites and circuits
-- 🌱 I’m currently learning how to make better circuts
-- 💞️ I’m looking to collaborate on my puzzle website called The Whole Puzzle
+- 🌱 I’m currently learning how to mod Satisfactory.
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I've been coding since I was 6 years old.
 
